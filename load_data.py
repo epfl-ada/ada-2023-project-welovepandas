@@ -3,12 +3,13 @@ import pandas as pd
 from tqdm import tqdm
 
 
-def load_data(path: str, attributes: list[str], max_entries: int = None) -> pd.DataFrame:
+def load_gzip_txt_data(path: str, attributes: list[str], max_entries: int = None) -> pd.DataFrame:
     """
     Loads the data from a gzip file.
+    Note: All columns are of type string, still need to cast them using 'df.astype'.
 
     :param path: str, the path where the gzip file is located.
-    :param attributes: list of str, list of attributes that we want to retrieve .
+    :param attributes: list of str, list of attributes that we want to retrieve.
     :param max_entries: int, number of lines to read. If None, all lines are read.
     :return: pd.Dataframe, a dataframe containing the data.
     """
@@ -19,7 +20,7 @@ def load_data(path: str, attributes: list[str], max_entries: int = None) -> pd.D
 
     with gzip.open(path, 'rt', encoding='utf-8') as f:
 
-        # Count the attribute "id" of the current entry (used only for max_entry)
+        # Count the number of attributes of the current entry (used only for max_entry)
         entry_attribute = 0
 
         for line in tqdm(f):
