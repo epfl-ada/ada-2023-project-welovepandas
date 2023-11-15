@@ -5,7 +5,7 @@ from tqdm import tqdm
 def load_reviews(path, max_entries = None):
     
     print("Loading reviews from", path)
-    number_of_lines = get_number_of_lines(path)
+    number_of_lines = None # get_number_of_lines(path)
     print(f"Number of lines: {number_of_lines}")
     
     reviews = {
