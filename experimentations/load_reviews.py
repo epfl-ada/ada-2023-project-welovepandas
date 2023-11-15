@@ -12,6 +12,11 @@ def load_reviews(path, max_entries = None):
         "beer_id": [],
         "user_id": [],
         "date": [],
+        "appearance": [],
+        "abv": [],
+        "aroma": [],
+        "palate": [],
+        "taste": [],
         "overall": [],
         "rating": [],
         "text": [],
@@ -25,6 +30,16 @@ def load_reviews(path, max_entries = None):
                 reviews["user_id"].append(line[len("user_id: "):].strip())
             elif line.startswith("date: "):
                 reviews["date"].append(float(line[len("date: "):].strip()))
+            elif line.startswith("appearance: "):
+                reviews["appearance"].append(float(line[len("appearance: "):].strip()))
+            elif line.startswith("abv: "):
+                reviews["abv"].append(float(line[len("abv: "):].strip()))
+            elif line.startswith("aroma: "):
+                reviews["aroma"].append(float(line[len("aroma: "):].strip()))
+            elif line.startswith("palate: "):
+                reviews["palate"].append(float(line[len("palate: "):].strip()))
+            elif line.startswith("taste: "):
+                reviews["taste"].append(float(line[len("taste: "):].strip()))
             elif line.startswith("overall: "):
                 reviews["overall"].append(float(line[len("overall: "):].strip()))
             elif line.startswith("rating: "):
