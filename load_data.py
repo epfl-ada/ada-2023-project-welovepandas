@@ -38,3 +38,4 @@ def load_gzip_txt_data(path: str, attributes: list[str], max_entries: int = None
 
     ratings = pd.DataFrame(ratings)
     return ratings
+  
