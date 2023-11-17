@@ -56,21 +56,21 @@ Interconnect NA states with EU contries based on their the most desired beer sty
 - 22.12.23 Deadline for **Milestone 3**.
 
 ## Organisation within the team
-**Data Analysis Team:** Members 1 & 2
+**Data Analysis Team:** Members 1 & 2</br>
 Lead the data slicing, preprocessing, and exploratory analysis
 Conduct statistical tests and interpret results.
 
-**Data Story and Visualization Team:** Members 3, 4 & 5
+**Data Story and Visualization Team:** Members 3, 4 & 5</br>
 Develop the narrative for the data story, integrating analytical insights.
 Design and create data visualizations and infographics.
 
-**Code Implementation:** Collaborative Effort
+**Code Implementation:** Collaborative Effort</br>
 Coding aspects of the project such as: data analysis, visualization scripts, etc. are contributed by all team members.
 
-**Analysis:** Group Discussion
+**Analysis:** Group Discussion</br>
 Discussing analyses at group meetings regularly; interpreting results; planning for next actions. Such discussions help establish a common understanding and approach to analysis.
 
-**Regular Check-ins and Updates:**
+**Regular Check-ins and Updates:**</br>
 Plan weekly or bi-weekly meetings where everyone reports on what they have done so far, challenges faced during task completion, and whether they are still on track to complete their tasks.
 
 
