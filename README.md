@@ -58,12 +58,12 @@ Make a geomap plot: Interconnect NA states with EU contries based on their the m
 - 22.12.23 Finalise Data Story. Complete the data story, ensuring it effectively communicates the findings of the analysis. Finalise the project Development.
 
 ## Organisation within the team
-**Data Analysis Team:** Members 1 & 2</br>
-Lead the data filtering, preprocessing, and exploratory analysis
+**Data Preparation Team:** Members 1 & 2</br>
+Lead the data filtering, preprocessing, and exploratory analysis.</br>
 Conduct statistical tests and interpret results.
 
 **Data Story and Visualization Team:** Members 3, 4 & 5</br>
-Develop the narrative for the data story, integrating analytical insights.
+Develop the narrative for the data story, integrating analytical insights.</br>
 Design and create data visualizations and infographics.
 
 **Code Implementation:** Collaborative Effort</br>
