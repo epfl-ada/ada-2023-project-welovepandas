@@ -47,9 +47,6 @@ We will examine the correlation between various features, such as ABV and rating
 
 - **Data Visualization**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
-Various visualisations are intended to provide clear insights into ABV values, ratings, and other relevant factors across the two regions.
-Leverage seaborn and other visualisation tools to create more complex and informative visualisations. This could include interactive plots or dashboards that allow for dynamic exploration of the data.
-Consider visualising the data geographically to highlight regional differences in beer preferences across North America and Europe.
 Make a geomap plot: Interconnect NA states with EU contries based on their the most desired beer style.
 
 ## Proposed timeline
