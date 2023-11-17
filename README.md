@@ -29,7 +29,7 @@ How can graph and network algorithms be utilized to explore these geographical c
 **Data visualisation:** To better understand the data and define next steps</br>
 
 - **Time Series Analysis**</br>
-This method involves examining beer ratings and reviews over time, allowing us to track changes in preferences for beer styles or characteristics.
+We will employ time series analysis to explore how beer preferences, particularly in terms of ABV, have evolved from 2000 to 2017. This method will help us identify the trends, seasonal patterns, and the changes over time.
 
 - **Trend Analysis**</br>
 We will study the data to identify patterns that may indicate emerging preferences or declining interest in specific beer styles.
