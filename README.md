@@ -11,7 +11,7 @@ This research will then provide insightful information for product development a
 
 ## Research Questions
 ### 1. Do Americans prefer beers with a higher alcohol content (ABV) than Europeans?
-This delves into whether N. Americans favor higher alcohol content beers compared to Europeans. In order to investigate this question, we will analyse ratings from both datasets, grouping users based on their location.  
+This investigation explores  into whether N. Americans favor higher alcohol content beers compared to Europeans. In order to investigate this question, we will analyse ratings from both datasets, grouping users based on their location.  
 ### 2. Is there a correlation between this preference and specific beer styles known for higher ABV?
 We will use grouping techniques and micro/macro averages to analyse this preference.
 ### 3. How have beer preferences, especially in terms of ABV, evolved in America and Europe between 2000 and 2017?
