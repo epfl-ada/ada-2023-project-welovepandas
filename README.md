@@ -32,7 +32,7 @@ The analysis includes examining average ratings and ABV trends over time, compar
 
 **Our methodology includes:**
 - **Data preprocessing**</br>
-**Data Filtering:** Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information</br>
+Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information</br>
 First, the data is divided into two main geographical regions: North America and Europe. In detail, European countries are named and users are placed depending on their localities.
 The dataset becomes properly conditioned for analysis purposes. This requires links between individual user information and his or her respective beer ratings.
 Beer styles are grouped into broader categories to make them more manageable. 
