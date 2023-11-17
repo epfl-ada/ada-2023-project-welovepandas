@@ -10,7 +10,7 @@ To verify this, different methods will be used such as regression analysis to in
 This research could provide insightful information for product development and marketing strategies in the beer sector, especially for brands wanting to conquer both continents.
 
 ## Research Questions
-### 1. Do Americans prefer beers with a higher alcohol content (ABV) than Europeans?
+## Do Americans prefer beers with a higher alcohol content (ABV) than Europeans?
 This investigation explores  into whether N. Americans favor higher alcohol content beers compared to Europeans. In order to investigate this question, we will analyse ratings from both datasets, grouping users based on their location.  
 ### 2. Is there a correlation between this preference and specific beer styles known for higher ABV?
 We will use grouping techniques and micro/macro averages to analyse this preference.
