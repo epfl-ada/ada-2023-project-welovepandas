@@ -3,10 +3,11 @@
 ## Abstract
 The North American and European markets are of great significance to the global beer industry. They influence the trends that are followed by the industry. Thus, we are curious to discover the differences between their customers’ preferences and the reason behind them.
 
-We are primarily interested in establishing whether there is a significant disparity in preference for beers with high alcohol by volume (ABV) between North Americans and Europeans, and if this preference is linked to certain types of beers. Indeed we suspect that the cultural dissimilarity of these two groups might lead to different inclinations when it comes to ABV in beer.
+We are primarily interested in establishing whether there is a significant disparity in preference for beers with high alcohol by volume (ABV) between North Americans and Europeans, and if this preference is linked to certain types of beers. Indeed we suspect that some of the cultural dissimilarities of these two groups might lead to different inclinations when it comes to alcohol concentration in beers.
 
-Therefore, different methods will be utilised such as linking beer ratings with their features, and notably ABV, in order to develop an interesting narrative that demonstrates how tastes have changed over time.
-This research will then provide insightful information for product development and marketing strategies of the beer sector
+To verify this, different methods will be used such as regression analysis to investigate correlations between beer ratings and their features, and notably ABV. In order to develop an interesting narrative that demonstrates the evolution of alcohol content preference, we will have to use some time-series analysis. Moreover, we will also try to map American states to European countries based on similar beers’ ABV likings that we will have uncovered.
+
+This research could provide insightful information for product development and marketing strategies in the beer sector, especially for brands wanting to conquer both continents.
 
 ## Research Questions
 ### 1. Do Americans prefer beers with a higher alcohol content (ABV) than Europeans?
