@@ -31,8 +31,11 @@ The analysis includes examining average ratings and ABV trends over time, compar
 **Our methodology includes:**
 - **Data preprocessing**</br>
 **Data Filtering:** Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information</br>
-**Grouping:** Grouping data based on relevant features (location, beer style)</br>
-**Data visualisation:** To better understand the data and define next steps</br>
+First, the data is divided into two main geographical regions: North America and Europe. In detail, European countries are named and users are placed depending on their localities.
+The dataset becomes properly conditioned for analysis purposes. This requires links between individual user information and his or her respective beer ratings.
+Beer styles are grouped into broader categories to make them more manageable. 
+We also discretized the ABV to have a discrete and manageable number of categories of ABV from which we can extract meaningful information.
+
 
 - **Time Series Analysis**</br>
 We will employ time series analysis to explore how beer preferences, particularly in terms of ABV, have evolved from 2000 to 2017. This method will help us identify the trends, seasonal patterns, and the changes over time.
