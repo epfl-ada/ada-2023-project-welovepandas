@@ -73,7 +73,7 @@ Coding aspects of the project such as: data analysis, visualization scripts, etc
 Discussing analyses at group meetings regularly; interpreting results; planning for next actions. Such discussions help establish a common understanding and approach to analysis.
 
 **Regular Check-ins and Updates:**</br>
-Plan weekly or bi-weekly meetings where everyone reports on what they have done so far, challenges faced during task completion, and whether they are still on track to complete their tasks.
+Plan meetings once/twice a week, when everyone reports on what they have done so far, challenges faced during task completion, and whether they are still on track to complete their tasks.
 
 
 
