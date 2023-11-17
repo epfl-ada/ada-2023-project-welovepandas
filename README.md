@@ -18,7 +18,6 @@ We will use grouping techniques and micro/macro averages to analyse this prefere
 To analyse this question, we will use time series analysis and visualisation techniques.
 ### 4. Is it possible to map American states to European countries based on similarities in beer preferences?
 How can graph and network algorithms be utilized to explore these geographical correlations?
-### 5. As we know that health consciousness increased in recent years, we want to explore if there is a noticeable shift in beer preferences towards lower ABV options.
 
 ## Datasets
 **BeerAdvocate** and **RateBeers**
