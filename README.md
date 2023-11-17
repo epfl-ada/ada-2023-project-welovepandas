@@ -15,11 +15,11 @@ This research could provide insightful information for product development and m
 This investigation explores  into whether N. Americans favor higher alcohol content beers compared to Europeans. In order to investigate this question, we will analyse ratings from both datasets, grouping users based on their location.
 ### Subquestions:
 1. Is there a correlation between this preference and specific beer styles known for higher ABV?
-We will use grouping techniques and micro/macro averages to analyse this preference.<\br>
+We will use grouping techniques and micro/macro averages to analyse this preference.
 2. How have beer preferences, especially in terms of ABV, evolved in America and Europe between 2000 and 2017?
-To analyse this question, we will use time series analysis and visualisation techniques.<\br>
+To analyse this question, we will use time series analysis and visualisation techniques.
 3. Is it possible to map American states to European countries based on similarities in beer preferences?
-How can graph and network algorithms be utilized to explore these geographical correlations?<\br>
+How can graph and network algorithms be utilized to explore these geographical correlations?
 
 ## Datasets
 **BeerAdvocate** and **RateBeers**
