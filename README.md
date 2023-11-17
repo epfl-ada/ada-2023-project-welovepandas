@@ -3,8 +3,8 @@
 ## Abstract
 The North American and European markets are of great significance to the global beer industry. They influence the trends that are followed by the industry. Thus, it was our curiosity about these two markets of beer that made us conduct this study in order to understand various tastes and inclinations of their customers to be able to analyse the beer industry within these regions.
 
-The objective of the study is examining beer preference patterns between America and Europe. Hence, it has been planned to be done in a period of seventeen years from 2000-2017.
-We are primarily interested in establishing whether there is significant disparity in preference for beers with high alcohol by volume (ABV) between North Americans and Europeans, and if this preference is linked to certain types of beers.The reason behind our interest lies in cultural disparities in alcohol drinking as well as the need for a better comprehension of how trends take place in the global beer industry.
+The objective of the study is examining beer preference patterns between America and Europe. Hence, it has been planned to be done in a period of seventeen years from 2000 to 2017.
+We are primarily interested in establishing whether there is a significant disparity in preference for beers with high alcohol by volume (ABV) between North Americans and Europeans, and if this preference is linked to certain types of beers.The reason behind our interest lies in cultural differences in alcohol drinking as well as the need for a better comprehension of how trends take place in the global beer industry.
 
 Therefore, different methods will be utilised so as to link beer ratings and properties with alcohol percentages in order to develop an interesting narrative that demonstrates how tastes have changed over time.
 This research will then provide insightful information for product development and marketing strategies of the beer sector.
