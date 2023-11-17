@@ -23,6 +23,12 @@ How can graph and network algorithms be utilized to explore these geographical c
 **BeerAdvocate** and **RateBeers**
 
 ## Methods
+The analysis focuses on comparing the preferences for beer ABV (Alcohol By Volume) between North American and European users. It particularly investigates whether Americans have a preference for higher ABV beers compared to Europeans.
+The study examines how these preferences have changed from 2000 to 2017.
+Beer ratings are analysed in relation to ABV. The investigation includes looking at how different beer styles are rated in North America versus Europe.
+The analysis includes examining average ratings and ABV trends over time, comparing review frequencies, and analysing the impact of seasonality and regional variations on beer ABV and ratings.
+
+**Our methodology includes:**
 - **Data preprocessing**</br>
 **Data Filtering:** Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information</br>
 **Grouping:** Grouping data based on relevant features (location, beer style)</br>
