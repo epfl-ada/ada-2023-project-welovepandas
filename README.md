@@ -24,24 +24,24 @@ How can graph and network algorithms be utilized to explore these geographical c
 **BeerAdvocate** and **RateBeers**
 
 ## Methods
-- **Data preprocessing**
+- **Data preprocessing**</br>
 **Data Filtering:** Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information
 **Grouping:** Grouping data based on relevant features (location, beer style)
 **Data visualisation:** To better understand the data and define next steps
 
-- **Time Series Analysis**
+- **Time Series Analysis**</br>
 This method involves examining beer ratings and reviews over time, allowing us to track changes in preferences for beer styles or characteristics.
 
-- **Trend Analysis** 
+- **Trend Analysis**</br>
 We will study the data to identify patterns that may indicate emerging preferences or declining interest in specific beer styles.
 
-- **Regression Analysis**
+- **Regression Analysis**</br>
 This statistical technique will be employed for both trend and time series analysis to quantify relationships between preferences of users from NA and EU.
 
-- **Data Visualization** 
+- **Data Visualization**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
 
-- **GEO plot**
+- **GEO plot**</br>
 Interconnect NA states with EU contries based on their the most desired beer style.
 
 ## Proposed timeline
