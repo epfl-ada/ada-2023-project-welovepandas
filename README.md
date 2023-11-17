@@ -43,7 +43,7 @@ We also discretized the ABV to have a discrete and manageable number of categori
 We will employ time series analysis to explore how beer preferences, particularly in terms of ABV, have evolved from 2000 to 2017. This method will help us identify the trends, seasonal patterns, and the changes over time.
 
 - **Statistical Analysis**</br>
-We will examine the correlation coefficient between various features, such as ABV and ratings. This might give us a relevant information about the dependancy between those parameters and validate our predictions.
+We will examine the correlation between various features, such as ABV and ratings. This might give us relevant information about the dependancy between those parameters and validate our predictions.
 
 - **Data Visualization**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
