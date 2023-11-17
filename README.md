@@ -46,7 +46,7 @@ We will employ time series analysis to explore how beer preferences, particularl
 We will examine the correlation between various features, such as ABV and ratings. This might give us relevant information about the dependancy between those parameters and validate our predictions.
 
 - **Data Visualization**</br>
-We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
+We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.</br>
 Make a geomap plot: Interconnect NA states with EU contries based on their the most desired beer style.
 
 ## Proposed timeline
