@@ -25,9 +25,9 @@ How can graph and network algorithms be utilized to explore these geographical c
 
 ## Methods
 - **Data preprocessing**</br>
-**Data Filtering:** Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information
-**Grouping:** Grouping data based on relevant features (location, beer style)
-**Data visualisation:** To better understand the data and define next steps
+**Data Filtering:** Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information</br>
+**Grouping:** Grouping data based on relevant features (location, beer style)</br>
+**Data visualisation:** To better understand the data and define next steps</br>
 
 - **Time Series Analysis**</br>
 This method involves examining beer ratings and reviews over time, allowing us to track changes in preferences for beer styles or characteristics.
