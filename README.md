@@ -45,19 +45,33 @@ We will create charts and graphs to help users and breweries visualize beer pref
 Interconnect NA states with EU contries based on their the most desired beer style.
 
 ## Proposed timeline
-- 17.11.23 **Milestone 2** deadline
-- 24.11.23 Wrok on **Homework 2**
-- 01.12.23 Deadline for **Homework 2**
-- 08.12.2023 
-- 15.12.2023 
-- 22.12.2023 Deadline for **Milestone 3**
+- 17.11.23 **Milestone 2** deadline.
+- 24.11.23 A break from the Project Work. Wrok on **Homework 2**.
+- 01.12.23 Deadline for **Homework 2**. Complete and submit homework 2.
+- 08.12.23 Begin Drafting Data Story. Start developing a rough draft of the data story, incorporating insights and visualizations from the analysis.
+- 09.12.23 Completion of Statistical Tests. Finalise all statistical tests required for the analysis.
+- 11.12.23 Finalize Code Implementations and Visualizations. Complete all coding and data visualizations pertinent to the analysis.
+- 15.12.23 Finalize Data Story. Complete the data story, ensuring it effectively communicates the findings of the analysis.
+- 21.12.23 Finalise the project Development.
+- 22.12.23 Deadline for **Milestone 3**.
 
 ## Organisation within the team
-- Julien: 
-- Damien: 
-- Lionel: 
-- Youssef: 
-- Angela: 
+**Data Analysis Team:** Members 1 & 2
+Lead the data slicing, preprocessing, and exploratory analysis
+Conduct statistical tests and interpret results.
+
+**Data Story and Visualization Team:** Members 3, 4 & 5
+Develop the narrative for the data story, integrating analytical insights.
+Design and create data visualizations and infographics.
+
+**Code Implementation:** Collaborative Effort
+Coding aspects of the project such as: data analysis, visualization scripts, etc. are contributed by all team members.
+
+**Analysis:** Group Discussion
+Discussing analyses at group meetings regularly; interpreting results; planning for next actions. Such discussions help establish a common understanding and approach to analysis.
+
+**Regular Check-ins and Updates:**
+Plan weekly or bi-weekly meetings where everyone reports on what they have done so far, challenges faced during task completion, and whether they are still on track to complete their tasks.
 
 
 
