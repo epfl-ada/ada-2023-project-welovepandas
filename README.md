@@ -53,9 +53,9 @@ Make a geomap plot: Interconnect NA states with EU contries based on their the m
 - 17.11.23 **Milestone 2** deadline.
 - 24.11.23 A break from the Project Work. Wrok on **Homework 2**.
 - 01.12.23 Deadline for **Homework 2**. Complete and submit homework 2.
-- 08.12.23 Begin Drafting Data Story. Start developing a rough draft of the data story, incorporating insights and visualizations from the analysis. Finalise all statistical tests required for the analysis. Finalize Code Implementations and Visualizations. Complete all coding and data visualizations pertinent to the analysis.
-- 15.12.23 Finalize Data Story. Complete the data story, ensuring it effectively communicates the findings of the analysis. Finalise the project Development.
-- 22.12.23 Deadline for **Milestone 3**.
+- 08.12.23 Begin Drafting Data Story. Start developing a rough draft of the data story, incorporating insights and visualizations from the analysis. 
+- 15.12.23 Finalise all statistical tests required for the analysis. Finalize Code Implementations and Visualizations. Complete all coding and data visualizations pertinent to the analysis.
+- 22.12.23 Finalize Data Story. Complete the data story, ensuring it effectively communicates the findings of the analysis. Finalise the project Development.
 
 ## Organisation within the team
 **Data Analysis Team:** Members 1 & 2</br>
