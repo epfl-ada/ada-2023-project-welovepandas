@@ -31,17 +31,18 @@ How can graph and network algorithms be utilized to explore these geographical c
 - **Time Series Analysis**</br>
 We will employ time series analysis to explore how beer preferences, particularly in terms of ABV, have evolved from 2000 to 2017. This method will help us identify the trends, seasonal patterns, and the changes over time.
 
-- **Trend Analysis**</br>
-We will study the data to identify patterns that may indicate emerging preferences or declining interest in specific beer styles.
+- **Correlation Analysis**</br>
+We will estimate the extent by which beer ratings correlate with ABV through correlation analysis by calculating the correlation coefficients which will show whether the relationship between these variables is strong/weak and positive/negative.
 
 - **Regression Analysis**</br>
-This statistical technique will be employed for both trend and time series analysis to quantify relationships between preferences of users from NA and EU.
+We will apply regression models that will provide insight on how various factors affect the rating of a given type. We may use Multiple regression analysis in this case whereby such predictors as alcohol percentage volume (ABV), other types mixed with other participants’ characteristics can be included.
 
 - **Data Visualization**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
-
-- **GEO plot**</br>
-Interconnect NA states with EU contries based on their the most desired beer style.
+Various data visualisations are planned, likely using seaborn, a Python visualization library. These visualisations are intended to provide clear insights into ABV values, ratings, and other relevant factors across the two regions.
+Leverage seaborn and other visualisation tools to create more complex and informative visualisations. This could include interactive plots or dashboards that allow for dynamic exploration of the data.
+Consider visualising the data geographically to highlight regional differences in beer preferences across North America and Europe.
+Make a geomap plot: Interconnect NA states with EU contries based on their the most desired beer style.
 
 ## Proposed timeline
 - 17.11.23 **Milestone 2** deadline.
