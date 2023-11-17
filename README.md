@@ -75,6 +75,11 @@ Discussing analyses at group meetings regularly; interpreting results; planning 
 **Regular Check-ins and Updates:**</br>
 Plan meetings once/twice a week, when everyone reports on what they have done so far, challenges faced during task completion, and whether they are still on track to complete their tasks.
 
-
+## Questions for TAs
+As shown in the preliminary results in `p2_notebook.ipynb`, we notice that the BeerAdvocate dataset contains very few ratings by European users.
+Moreover, we are always plotting the plots for BeerAdvocate and RateBeer side-by-side, which is not convenient. One solution to this would be to 
+merge the two datasets, but the ratings are not always on the same scale and the American users from RateBeer would be mixed with a high number of BeerAdvocate users, and this would not be the case for European users.
+For all these reasons, it seems to us that RateBeer is much more adapted to answer our reseach question.
+The question is then: are we allowed to only use the RateBeer dataset in our case?
 
 
