@@ -18,8 +18,6 @@ This investigation explores  into whether N. Americans favor higher alcohol cont
 We will use grouping techniques and micro/macro averages to analyse this preference.
 2. How have beer preferences, especially in terms of ABV, evolved in America and Europe between 2000 and 2017?</br>
 To analyse this question, we will use time series analysis and visualisation techniques.
-3. Is it possible to map American states to European countries based on similarities in beer preferences?</br>
-How can graph and network algorithms be utilized to explore these geographical correlations?
 
 ## Datasets
 **BeerAdvocate** and **RateBeers**
@@ -47,7 +45,6 @@ We will examine the correlation between various features, such as ABV and rating
 
 - **Data Visualization**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.</br>
-Make a geomap plot: Interconnect NA states with EU contries based on their the most desired beer style.
 
 ## Proposed timeline
 - 17.11.23 **Milestone 2** deadline.
