@@ -61,7 +61,6 @@ In addition, we will carry out correlation analysis which looks into whether hig
  We will examine the correlation between various features, such as ABV and ratings to see the dependancy between those parameters and validate our predictions.
 This is done to give an insight on whether a preference for higher alcohol content by beer consumers could be associated with specific types of beers, thus on regional preferences for beer.
 
-Lastly, we will conduct a comprehensive analysis comparing the findings from North America and Europe. By doing this we seek to highlight any significant differences in their preferences that would be useful We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
 
 - **Data Visualization and Conclusion**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.</br>
