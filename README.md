@@ -104,4 +104,11 @@ merge the two datasets, but the ratings are not always on the same scale and the
 For all these reasons, it seems to us that RateBeer is much more adapted to answer our reseach question.
 The question is then: are we allowed to only use the RateBeer dataset in our case?
 
+## Main contribution of the members:
+- Lionel Safar: Time evolution and seasonality analysis
+- Julien Leuenberger: One-to-one matching and general analysis
+- Youssef Kammoun: Data story and textual description
+- Angela Meshkova: Data story and textual descritpion
+- Damien Genoud: Data preprocessing and general analysis
 
+These are only the main focus of each member, we  actually helped each other for all tasks.
