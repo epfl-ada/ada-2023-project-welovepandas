@@ -29,6 +29,9 @@ Beer ratings are analysed in relation to ABV. The investigation includes looking
 The analysis includes examining average ratings and ABV trends over time, comparing review frequencies, and analysing the impact of seasonality and regional variations on beer ABV and ratings.
 
 **Our methodology includes:**
+
+**Part 1: Data Foundation and Preliminary Analysis**
+
 - **Data preprocessing**</br>
 Not all features will be useful, therefore, we will filter the data to remove irrelevant or redundant information</br>
 First, the data is divided into two main geographical regions: North America and Europe. In detail, European countries are named and users are placed depending on their localities.
@@ -36,15 +39,35 @@ The dataset becomes properly conditioned for analysis purposes. This requires li
 Beer styles are grouped into broader categories to make them more manageable. 
 We also discretized the ABV to have a discrete and manageable number of categories of ABV from which we can extract meaningful information.
 
+- **Data Categorization and Grouping**</br>
+This step involves organizing beers into categories based on their styles in order to facilitate a comparative analysis structure. 
+While at the same time the data will be divided geographically, so as to analyze how each group (North America versus Europe) prefers their beers distinctly. 
+Such categorization is necessary for comparing beer preferences across continents.  
+We also discretized the ABV to have a discrete and manageable number of categories of ABV from which we can extract meaningful information.
 
-- **Time Series Analysis**</br>
-We will employ time series analysis to explore how beer preferences, particularly in terms of ABV, have evolved from 2000 to 2017. This method will help us identify the trends, seasonal patterns, and the changes over time.
+**Part 2: In-Depth Data Analysis**
+- **Analysis of Beer Style Preferences**</br>
+Using the categorized data, we will examine the types of beer favored by people in North America as well as Europe more closely.
+We seek not only to identify popular styles but also to understand what average ABV range characterizes these preferences in both cases.
+Thus, this analysis intends to bring out main patterns of behaviors regarding the selection of brands.
+
+- **Time Series Analysis of ABV Preferences**</br>
+we will keep track of ABV preferences from 2000 – 2017. Through time series analysis we can identify trends as well as notable changes that have happened over some time thus understanding more about what happens when it comes to alcohol consumption among various individuals, the trends, seasonal patterns, and the changes over time.
+
+**Part 3: Synthesis and Interpretation**
 
 - **Statistical Analysis**</br>
-We will examine the correlation between various features, such as ABV and ratings. This might give us relevant information about the dependancy between those parameters and validate our predictions.
+In addition, we will carry out correlation analysis which looks into whether highly alcoholic beer styles have particular popularity within regions.
+ We will examine the correlation between various features, such as ABV and ratings to see the dependancy between those parameters and validate our predictions.
+This is done to give an insight on whether a preference for higher alcohol content by beer consumers could be associated with specific types of beers, thus on regional preferences for beer.
 
-- **Data Visualization**</br>
+Lastly, we will conduct a comprehensive analysis comparing the findings from North America and Europe. By doing this we seek to highlight any significant differences in their preferences that would be useful We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.
+
+- **Data Visualization and Conclusion**</br>
 We will create charts and graphs to help users and breweries visualize beer prefrences, and trends among parameters.</br>
+Lastly, we will conduct a comprehensive analysis comparing the findings from North America and Europe.
+By doing this we seek to highlight any significant differences in their preferences that would be useful.
+
 
 ## Proposed timeline
 - 17.11.23 **Milestone 2** deadline.
