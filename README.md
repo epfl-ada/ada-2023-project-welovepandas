@@ -1,5 +1,8 @@
 # Beers Across the Atlantic: Decoding Beer Preferences in North America and Europe
 
+## Data Story
+Follow [this link](https://epfl-ada.github.io/ada-welovepandas-webpage/) and navigate through our data story to see the main results of our analysis!
+
 ## Abstract
 The North American and European markets are of great significance to the global beer industry. They influence the trends that are followed by the industry. Thus, we are curious to discover the differences between their customers’ preferences and the reason behind them.
 
